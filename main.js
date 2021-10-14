@@ -16,7 +16,7 @@ function setup() {
 	poseNet.on("pose",gotPoses);
 
 }
-function modelLoaded()
+function modelLoaded()	
 {
 	console.log("Model Loaded");
 }
